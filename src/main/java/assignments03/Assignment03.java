@@ -15,6 +15,7 @@ public class Assignment03 {
 		InternetExplorerDriver driver2 = new InternetExplorerDriver();
 		EdgeDriver driver3 = new EdgeDriver();
 		SafariDriver driver4 = new SafariDriver();
+		SafariDriver driver5 = new SafariDriver();
 
 		// Added POI from Apache to "pom.xml"
 
